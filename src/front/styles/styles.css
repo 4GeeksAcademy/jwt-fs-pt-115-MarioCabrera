@@ -1,0 +1,29 @@
+.home-page {
+    background-image: url("../assets/img/Kimetsu_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;         
+    background-attachment: fixed;    
+    background-position: center top;  
+    background-color: #000;           
+    min-height: 100vh;                
+}
+.details-page {
+    background-image: url("../assets/img/Description_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;         
+    background-attachment: fixed;    
+    background-position: center top;  
+    background-color: #000;           
+    min-height: 100vh;   
+}
+.card-name {
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  font-size: 1.2rem;
+}
+.title {
+  
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
